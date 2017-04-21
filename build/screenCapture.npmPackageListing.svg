@@ -1,0 +1,50 @@
+<svg height="750" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="750" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 13:49:16 +0000   345184 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 13:49:16 +0000    20334 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 13:49:16 +0000      662 bytes  DayPicker.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 13:49:16 +0000     1087 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 13:49:16 +0000     4749 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 13:49:16 +0000   121622 bytes  lib/daypicker.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 13:49:16 +0000    49225 bytes  lib/daypicker.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 13:49:16 +0000     1238 bytes  lib/src/Caption.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 13:49:16 +0000     1742 bytes  lib/src/Caption.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 13:49:16 +0000     3473 bytes  lib/src/DateUtils.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 13:49:16 +0000     6104 bytes  lib/src/DateUtils.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 13:49:16 +0000     3360 bytes  lib/src/Day.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 13:49:16 +0000     5199 bytes  lib/src/Day.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 13:49:16 +0000    25242 bytes  lib/src/DayPicker.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 13:49:16 +0000    32847 bytes  lib/src/DayPicker.js.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 13:49:16 +0000     6063 bytes  lib/src/Helpers.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 13:49:16 +0000    10785 bytes  lib/src/Helpers.js.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 13:49:16 +0000     1266 bytes  lib/src/LocaleUtils.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 13:49:16 +0000     2219 bytes  lib/src/LocaleUtils.js.map</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 13:49:16 +0000     3610 bytes  lib/src/Month.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 13:49:16 +0000     5230 bytes  lib/src/Month.js.map</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 13:49:16 +0000     2702 bytes  lib/src/Navbar.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 13:49:16 +0000     3849 bytes  lib/src/Navbar.js.map</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 13:49:16 +0000     1467 bytes  lib/src/PropTypes.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 13:49:16 +0000     1726 bytes  lib/src/PropTypes.js.map</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 13:49:16 +0000     1621 bytes  lib/src/Weekday.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 13:49:16 +0000     2170 bytes  lib/src/Weekday.js.map</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 13:49:16 +0000     2247 bytes  lib/src/Weekdays.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 13:49:16 +0000     3347 bytes  lib/src/Weekdays.js.map</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 13:49:16 +0000      472 bytes  lib/src/addons/LocaleUtils.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 13:49:16 +0000      263 bytes  lib/src/addons/LocaleUtils.js.map</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 13:49:16 +0000     2154 bytes  lib/src/addons/MomentLocaleUtils.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 13:49:16 +0000     2649 bytes  lib/src/addons/MomentLocaleUtils.js.map</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 13:49:16 +0000      447 bytes  lib/src/addons/index.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 13:49:16 +0000      254 bytes  lib/src/addons/index.js.map</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 13:49:16 +0000      807 bytes  lib/src/classNames.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 13:49:16 +0000     1333 bytes  lib/src/classNames.js.map</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 13:49:16 +0000     1254 bytes  lib/src/index.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 13:49:16 +0000      661 bytes  lib/src/index.js.map</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 13:49:16 +0000      207 bytes  lib/src/keys.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 13:49:16 +0000      360 bytes  lib/src/keys.js.map</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 13:49:16 +0000     4870 bytes  lib/style.css</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 13:49:16 +0000      165 bytes  moment.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 13:49:16 +0000     3942 bytes  package.json</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 13:49:16 +0000      160 bytes  utils.js</tspan>
+</text>
+</svg>
