@@ -1,1 +1,39 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-react-day-picker",     "homepage": "https://github.com/npmtest/node-npmtest-react-day-picker",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-react-day-picker.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [react-day-picker (v5.2.3)](https://react-day-picker.js.org)  [![npm package](https://img.shields.io/npm/v/npmtest-react-day-picker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-day-picker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-day-picker.svg)](https://travis-ci.org/npmtest/node-npmtest-react-day-picker)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-react-day-picker",
+    "keywords": [
+        "coverage",
+        "test",
+        "react-day-picker"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_react_day_picker.js",
+    "name": "npmtest-react-day-picker",
+    "nameAlias": "npmtest_react_day_picker",
+    "nameOriginal": "npmtest-react-day-picker",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-react-day-picker.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
